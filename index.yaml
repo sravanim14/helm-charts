@@ -3,7 +3,20 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-03-02T15:44:45.5176896-05:00"
+    created: "2026-03-02T16:24:35.8539418-05:00"
+    description: A Helm chart for deploying Nginx on Kubernetes
+    digest: 6e87af1f9ec5cf2b9f19d17da75a7b682fc6ddc236e1017f6cb645a754ee7f25
+    maintainers:
+    - email: sravani.madireddy14@gmail.com
+      name: Sravani Madireddy
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-02T16:24:35.8523308-05:00"
     description: A Helm chart for deploying Nginx on Kubernetes
     digest: ca9d0e65dcf06f13cbf27ab06af4d6b1f05c285f894d52dc7169678f494a241b
     maintainers:
@@ -14,4 +27,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-02T15:44:45.517174-05:00"
+generated: "2026-03-02T16:24:35.8512684-05:00"
